@@ -57,6 +57,11 @@ const Navbar = () => {
              rightIcon={<TiLocationArrow />}
              containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"
              />
+             <Button
+             id="whitepaper-button"
+             title="WhitePaper"
+             containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"
+             />
           </div>
           <div className="flex h-full items-center">
             <div className="hidden md:block">
